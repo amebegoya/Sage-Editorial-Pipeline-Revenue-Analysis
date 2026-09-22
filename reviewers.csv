@@ -1,0 +1,52 @@
+reviewer_id,reviewer_name,institution,field,is_active
+R001,Grace Chen,University of São Paulo,Management,false
+R002,Maria Singh,,Methodology,TRUE
+R003,Yuki Muller,STANFORD UNIVERSITY,Sociology,No
+R004,Nadia Anderson,University of Manchester,Education,Yes
+R005,Mei Anderson,lse,Psychology,false
+R006,Fatima Kowalski,lse,Psychology,TRUE
+R007,James Chen,,Education,true
+R008,Nadia Osei,Sciences Po,Sociology,No
+R009,Ravi Osei,SCIENCES PO,Management,Yes
+R010,Nadia Singh,stanford university,Psychology,No
+R011,Chloe Martin,SEOUL NATIONAL UNIVERSITY,Psychology,No
+R012,Yuki Costa,,Management,true
+R013,Carlos Park,,Sociology,No
+R014,Noah Muller,University of Cape Town,Education,0
+R015,Ingrid Singh,University of São Paulo,Methodology,true
+R016,Noah Kim,Sciences Po,Political Science,1
+R017,Felix Okafor,National University of Singapore,Education,Yes
+R018,Carlos Weber,Trinity College Dublin,Methodology,Yes
+R019,Noah Weber,Stanford University,Education,TRUE
+R020,Grace Novak,University of Manchester,Methodology,true
+R021,Wei Rossi,Stanford University,Methodology,Yes
+R022,Maria Costa,University of São Paulo,Management,No
+R023,Kwame Anderson,stanford university,Psychology,No
+R024,Amara Osei,,Sociology,TRUE
+R025,Omar Okafor,stanford university,Methodology,No
+R026,Priya Singh,LSE,Methodology,false
+R027,Aisha Martin,MIT,Political Science,FALSE
+R028,Emma Silva,LSE,Methodology,No
+R029,Grace Novak,University of Cape Town,Management,0
+R030,Victor Martin,National University of Singapore,Education,No
+R031,Diego Kowalski,,Sociology,false
+R032,Yuki Rossi,mit,Management,No
+R033,Tom Rossi,University of Toronto,Sociology,true
+R034,Chloe Muller,Trinity College Dublin,Management,No
+R035,Diego Costa,,Political Science,false
+R036,Felix Fischer,,Education,true
+R037,Peter Kim,University of Manchester,Sociology,No
+R038,Chloe Costa,Seoul National University,Political Science,0
+R039,Felix Adeyemi,seoul national university,Psychology,TRUE
+R040,Fatima Costa,University of São Paulo,Education,1
+R041,Sofia Adeyemi,Stanford University,Methodology,TRUE
+R042,Priya Novak,Sciences Po,Management,true
+R043,Aisha Martin,University of São Paulo,Psychology,No
+R044,Fatima Osei,Sciences Po,Psychology,0
+R045,Ravi Costa,National University of Singapore,Psychology,0
+R046,Chloe Hassan,Trinity College Dublin,Methodology,TRUE
+R047,Priya Diallo,,Education,1
+R048,Maria Diallo,UNIVERSITY OF MELBOURNE,Methodology,false
+R049,Aisha Silva,University of Melbourne,Methodology,true
+R050,Nadia Costa,Stanford University,Psychology,FALSE
+R011,Chloe Martin,SEOUL NATIONAL UNIVERSITY,Psychology,No
